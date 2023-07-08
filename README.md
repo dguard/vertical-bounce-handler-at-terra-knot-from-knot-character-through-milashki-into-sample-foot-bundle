@@ -2,6 +2,28 @@
 
 * \
 
+* и sample-foot добавим into knot-body через stickd \
+
+* получится "complete" sample-foot \
+
+* sample-foot bounnd from \ knot-starting, knot-another, knot-rest, knot-closin
+
+* затем пробую собирать sample-foot from bottom \
+
+* direction into projection указал \ чтобы сделать allocat\ через paper \
+
+*
+
+* у меня уже получается рисовать sample-foot into rotatin через paper \
+
+* rotatin \ rotatin-flip \ rotatin-flip-another \
+
+* Указал direction into projection from profile knot \ into rotatin \
+
+* Пробуем мету в развитие через 2х priest'ов \
+
+* \
+
 * Напоминаем уже делали save для threads meta \ ! смотрите коммиты recent November \
 
 * И вот сейчас чел пилит trava \ и выключил потому что \ ! про него говорят
