@@ -2,6 +2,20 @@
 
 * \
 
+* We hope to use that further \ that is knot palette \ knot circle-itan \ prounouncin \ viewport-boundar \
+
+* And there comp\os\d different viewport-bound\ar \ that allow\ use different\ direction-into-projection \
+
+* And tell us how to construct sample-foot \ through straight viewport \
+
+* That viewport-bound\ar "reser\danochka" present\ direction-into-projection \
+
+* \ We us\d allocat\ and pronounce viewport-bound\ar into entire picture
+
+* And there we have \ once we have sample-direction-into-projection picture \
+
+* \
+
 * В другом случае накладываем в существующую entire picture \
 
 * В одном случае считаем начиная от pointerBelongings into entire \ 
