@@ -2,6 +2,36 @@
 
 * \
 
+* keep through deb\th \ us\d once viewport-rotatin construct\d \
+
+* we knot use martial art\
+
+* keep through debth known in martial art \ 
+
+* through keep deb\th \
+
+* through keep profile \
+
+* and constructin\ sample-foot into direction-another\ 
+
+* \
+
+* up allow\ use original sample-foot direction into physica\l trainin\
+
+* keep allow\ use original sample-foot direction into focus
+
+* \
+
+* keep from sample-foot \ capturd-workarea
+
+* up from sample-foot \ capturd-workarea
+
+* straight from viewport-bound\ar \ resedanochka
+
+* allocat\ knot rect into sample-character
+
+* \
+
 * We hope to use that further \ that is knot palette \ knot circle-itan \ prounouncin \ viewport-boundar \
 
 * And there comp\os\d different viewport-bound\ar \ that allow\ use different\ direction-into-projection \
