@@ -2,6 +2,34 @@
 
 * \
 
+* Работаем дальше \
+
+* \
+
+* Заплывы \ переплыли через речку into island\ и дальше into island another \
+
+* И еще один the pirate from reigh\n \ лысый \ базовая сборка с перфоратором \ на ровных \
+
+* Появился еще один чел \ скорее всего fork рыжего \
+
+* Продолжаем тренировки \
+
+* \
+
+* И делаем bundle sample-foot \ into sample-character \
+
+* И через некоторое время будем делать bundle \
+
+* Уже\ exist\ draft \ через пару дней допилим viewport-bounder \ ra\dial\ochka \
+
+* Разбираемся с direction-into-projection \
+
+* Собираем дальше \ 
+
+* Так чел \ 
+
+* \
+
 * keep through deb\th \ us\d once viewport-rotatin construct\d \
 
 * we knot use martial art\
