@@ -2,6 +2,10 @@
 
 * \
 
+* \ into closin\ commit date
+
+* \
+
 * держимся чел \ попытка затереть память \ лысый \ knot \ ствол from osina \ fix\d \
 
 * knot-fas \ pencil-from-knot remind\ неоднозначное преобразование 2го дня into 3й день \ from caption from media \ from stream from knot-fas-from-original \ through july \ calc_day(4 + 1) \
