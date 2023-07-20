@@ -2,6 +2,12 @@
 
 * \
 
+* Собираем sample-foot дальше \ несколько direction-into-projection ready\
+
+* Так чел \ н\ашл\и\ m\ssd\ cl\ari\fi\cati\on\ прив\од\ящую к расширению usd region from allocatd memory
+
+* \
+
 * \ into closin\ commit date
 
 * \
