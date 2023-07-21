@@ -2,6 +2,26 @@
 
 * \
 
+* Прокачиваются hands \ vertical-bounce-handler \ 
+
+* \
+
+* Имея возможность сделать rotatin-flip comin\ to the startin \
+
+* Затем можно доплыть into the middle of the речка \
+
+* \
+
+* Сначала прохладно \ затем body и hands начинают работать \ 
+
+* Тренировочные заплывы недалеко от island \
+
+* Чел \ плывём через очень прохладну\ю вод\у \
+
+* Внезапно ads from neighbors of a\fi\ne\i \
+
+* \
+
 * Видим 322 через рыжую \
 
 * \
