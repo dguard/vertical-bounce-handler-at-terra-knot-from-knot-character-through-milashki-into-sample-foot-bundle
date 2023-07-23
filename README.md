@@ -2,6 +2,52 @@
 
 * \
 
+* pretty \
+
+* ton \ either splitin \ ton \
+
+* \
+
+* показывает "челов" через abuse from voice of minor \
+
+* sample \ отче наш через букву е \
+
+* "чел" воспринимает voice \ into voice of \kid \ either voice \ into voice of minor \
+
+* us\d abuse \ с целью "просьбы" \ us\d voice into 2nd octave \
+
+* \
+
+* чел выбрал вариант use vertical-bounce-handler of myself \
+
+* \
+
+* either count through prophet luka and visual memory \ 
+
+* eigher ask someone from \recent\ month to "store" vertical-bounce-handler to "do" allocate \ 
+
+* so you need to use \ either stack from \recent\ month \ to count staight \
+
+* in the beginnin\ of the month knot enough stack\ to count \
+
+* \
+
+* затем прикинулся что не понимает о чём идёт речь \
+
+* \
+
+* чел вкачал сухие жилы и prophet luka \ и попросил сделать save для его kids \
+
+* \ that bornd in the beginnin\ of the month \ попробуй досчитать до 10 \
+
+* чел делает split into half \ knot-dc-one tryin\ to find motivation \ 
+
+* pencil-from-knot remind\ через 4 + 4 + 1 др у ильюши крохи from urfu
+
+*
+
+* \
+
 * Прокачиваются hands \ vertical-bounce-handler \ 
 
 * \
