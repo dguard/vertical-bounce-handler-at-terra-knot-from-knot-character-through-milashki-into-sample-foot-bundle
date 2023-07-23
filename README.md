@@ -2,6 +2,10 @@
 
 * \
 
+* Продолжаем собирать knot-sample-foot \
+
+* \
+
 * pretty \
 
 * ton \ either splitin \ ton \
