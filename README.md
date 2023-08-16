@@ -2,6 +2,42 @@
 
 * \
 
+* To avoid high-frequency high-couplin\ from pass\d \ frequently-usd\ words \
+
+* And keep \ distance from chinese and korean \
+
+* To \avoid collision here \ 
+
+* And keep knot at distance from japanese language \ 
+
+* \
+
+* Не ожидал \ \ от кого \ - \ кого \ не ожидал \ 
+
+* Mister President \ идём через "огненную" воду \ knot-morphilina \ керри\ наряду с knot-vata и knot-gilti \
+
+* \
+
+* Remind indexOf taken of\ six in js backdoor \ cosyinka repo demonstrates \
+
+* \ Only rebindin\ ports helps \
+
+* Cache \ from development server \ keep\ same durin\ 9+1 days \ 
+
+* В этом месяце нашли бэкдор в python \ "помимо" описанных ранее \
+
+* \
+
+* Found a way to compare \ "различать" gemeni \ twin-brothers в 4+1 месяце этого года \
+
+* Но чуть при\за\думался \ 
+
+* Хотел в прошлом году написать \ отозвать учёную степень \
+
+* А я то еще думаю зачем D Knuth написал entire книгу с "мелким" "сравнением" \
+
+* \
+
 * приходим домой \ лысый into пикап банки из дома выносит \ прибирается \
 
 * чел \ это конечно \ совпадение \
