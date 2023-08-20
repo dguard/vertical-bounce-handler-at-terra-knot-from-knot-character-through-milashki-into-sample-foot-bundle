@@ -2,6 +2,16 @@
 
 * \
 
+* И верни пожалуйста лысого \ чел работает \
+
+* keep \invariant knot boundd to singleton\ 
+
+* И пользователи сохранившие способность к простым арифметическим расчётам have \ focus  \ подразумевается an\ operation module usin \ 
+
+* Чел \ ты пишешь entire статью через h \ 
+
+* \
+
 * To avoid high-frequency high-couplin\ from pass\d \ frequently-usd\ words \
 
 * And keep \ distance from chinese and korean \
