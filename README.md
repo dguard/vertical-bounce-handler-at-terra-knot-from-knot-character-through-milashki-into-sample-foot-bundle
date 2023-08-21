@@ -2,6 +2,12 @@
 
 * \
 
+* \ allocate сделали \ дальше полегче должно пойти \
+
+* Собираем terra-knot \ 
+
+* \
+
 * И верни пожалуйста лысого \ чел работает \
 
 * keep \invariant knot boundd to singleton\ 
