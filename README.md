@@ -2,6 +2,20 @@
 
 * \
 
+* также благодарим knot-apofigeea \ восстание алины \ knot-kristicks_ \ knot-kris_grizliks \
+
+* \
+
+* кроме этого gnu editor "не совсем предсказуемо" использует opacity-channel при работе from passd png \    \ \ instead of "overlay usin" into passd layer into above \ использует opacity-channel \
+
+* "create from clipboard" через gnu editor "при некоторых кейсах" забирает 1 px \
+
+* обнаружили утраченный em from px \
+
+* knot-dc-one при участии knot-awf и чела со странным неймом \
+
+* \
+
 * \ allocate сделали \ дальше полегче должно пойти \
 
 * Собираем terra-knot \ 
