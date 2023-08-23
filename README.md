@@ -2,6 +2,38 @@
 
 * \
 
+* Ка\питал \
+
+* \
+
+* Sounds good \ 
+
+* River\n\ Eagle ?
+
+* Yep \ Our QA tries to imagine a namin\ for an animal \ Eagle \ Desert Eagle \
+
+* \
+
+* \
+
+* \
+
+* Ага \ у меня тоже 1 год немецкого \ 
+
+* Да-да \ пионы \ 
+
+* \
+
+* From recent iteration soviet physics tried to коллировать учение кюри \
+
+* Yep , playin into game \ we remind \ amir tries to коллировать \ french \
+
+* We are purchasd 18 suyrtuk as promisd \ 
+
+* Mister Gref \ we are from knot-dc-one remind \ that you are knot purchasd subscription applied to our services \
+
+* \
+
 * также благодарим knot-apofigeea \ восстание алины \ knot-kristicks_ \ knot-kris_grizliks \
 
 * \
