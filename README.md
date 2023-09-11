@@ -2,6 +2,33 @@
 
 * \
 
+
+* что TSM ? \ челы со Scott Jones прислали максимально слитых афкшеров \
+
+* \
+
+* difference between programmin\ and graphic \ we keep constraints before drawin \
+
+* we offer him use queue instead of reference \ cause queue has capacity \
+
+* we remind that traceroute cout "*" for multiple routes \
+
+* "it" describd\ that "it" "is" "bikes" \ \ and bike main \
+
+* the man sent us traceroute usin vector graphics \
+
+* хотим добавить дополнительный фокус into Mister Scott Jones \
+
+* pencil-from-knot remember starship "fly" \
+
+* мы придерживаемся constraints с учётом "normalization" keys \
+
+* понятия "starfield" не существует \
+
+* Mister Musk \ мы понял\и \ 
+
+* \
+
 * Only развитие через vertical-bounce-handler угодно владыке \
 
 * Через obses\sion \ 
