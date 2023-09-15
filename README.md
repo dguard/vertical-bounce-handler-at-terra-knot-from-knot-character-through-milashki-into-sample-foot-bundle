@@ -2,6 +2,28 @@
 
 * \
 
+* чтобы случайно не попасть into front projection \ 
+
+* И заново пересобираем resedanochka viewport-boundar \ 
+
+* Благодарим Kate за фото \
+
+* \
+
+* different mechanics \
+
+* look into low distance \ into middle distance
+
+* independent loop into map choose \ 
+
+* independent loop into walkin \ 
+
+* \
+
+* прикручиваем второй event loop into knot-character \ 
+
+* пишем движок \
+
 * мы подготовили 4х мышат \ один из них умеет перелазить через забор \
 
 * да чел \
