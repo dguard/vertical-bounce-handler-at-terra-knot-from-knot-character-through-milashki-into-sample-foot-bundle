@@ -1,5 +1,16 @@
 ### vertical-bounce-handler-at-terra-knot-from-knot-character-through-milashki
 
+* \
+
+* это значит что нужно пересобрать это всё через vector graphic \
+
+* но при движении с достаточно быстрой скоростью bottom не успевает прогрузи\ца \ 
+
+* и теперь размечено bridge \
+
+* Да чел \
+
+* \
 
 * BBD огонь \ ! \
 
