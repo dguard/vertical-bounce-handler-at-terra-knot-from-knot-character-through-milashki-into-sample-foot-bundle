@@ -4,7 +4,9 @@
 
 
 
+* И stack оказывается в другой руке \
 
+* Делаем pass knot через focus \
 
 * \ ! knot-follentass \ не подсказываем \ 
 
