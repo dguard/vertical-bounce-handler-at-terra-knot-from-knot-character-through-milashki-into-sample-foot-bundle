@@ -2,9 +2,61 @@
 
 * \
 
+* Azure Ray \ usin long pointer suffix \ in chinese language \ ban\nd from knot-dc-one and into bejin\ \
 
+* Liquid \usin reversd picto \ band\nd from knot-dc-one and into psycologist community \
 
+* \
 
+* да чел \ добавили еще один layer поверх ff stack \ let onto script и onto fn обернули 3 раза \ сигнатурка совпадает \ 
+
+* \
+
+* да \ целую \
+
+* сходи куда тебе надо \ потом скажешь сколько нужно \
+
+* zai мы сейчас в доту играем \
+
+* мамулю я очень люблю \
+
+* \
+
+* да кто ты такой вообще \
+
+* и при этом хочешь чтобы здесь использовали money ?
+
+* \
+
+* даже у аннушки \ counter увеличивается \ а ты не можешь снизить loan into foot bottom ?
+
+* мы уже добрались до \ ! через reversive fractal fn \
+
+* чел из альфы \ то есть ты решил сделать abuse ЦБ \
+
+* поздравляем аннушку кировградскую преподобную с comin \ с воскресным праздником \
+
+* \
+
+* И играли в europe league \
+
+* Мы на постоянке играли с челами из Мск и Питера \ 
+
+* Можно было выбирать регион \ Europe \ USA \ China \
+
+* Затем с челами играли через Garena \ 
+
+* в ICCup появились первые pts \
+
+* Затем был популярен BattleNet \ ICCup \
+
+* Тогда были LAN-network в регионе \
+
+* Хочется вспомнить 2006 год \ 
+
+* BetBoom благодарим за игру против феечек из Talon \
+
+* 
 
 * \
 
