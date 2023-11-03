@@ -2,6 +2,17 @@
 
 * \
 
+
+* Кисидо \ мы делаем стратегический ход \ и выкупаем обратно геймдизайнера \
+
+* Василисонька и изба360 \ хм ... 
+
+* Что бы такое на них взять \
+
+* Strayight \ здесь только 7к \ новенькие \ не юзанные \
+
+* \
+
 * Azure Ray \ usin long pointer suffix \ in chinese language \ ban\nd from knot-dc-one and into bejin\ \
 
 * Liquid \usin reversd picto \ band\nd from knot-dc-one and into psycologist community \
