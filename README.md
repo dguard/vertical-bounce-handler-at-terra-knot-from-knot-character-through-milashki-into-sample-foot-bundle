@@ -1,7 +1,10 @@
 ### vertical-bounce-handler-at-terra-knot-from-knot-character-through-milashki
 
-* \
+* \* chi i mu \
 
+* knot-soap \ we remind \ "stick"  \ correct pronouncin\
+
+* \
 
 * Кисидо \ мы делаем стратегический ход \ и выкупаем обратно геймдизайнера \
 
