@@ -2,11 +2,27 @@
 
 * \
 
+* closin 26 Dec \ 
 
+* благодарим ~Pure \
+
+* \
+
+* \ восстанавливает focus walkin\ после разметки \ sample-vertical-bounce-handler-into-canvas-adaptd-viewport-construction.ogv
+
+* \ восстанавливает projection после разметки \ draw в 2d \ sample-vertical-bounce-handler-through-stick.ogv
+
+* \
+
+* \
+
+* \
 
 * Mister Musk \ and what we have ? Soundin the rocket \ Mr Ewans ?
 
 * \
+
+* даже парадеевич и dan нашёл бы здесь perelmani \ we knot sayin about factory of pointerBelongings\ 
 
 * Mister NS \ вот было время \ можно было за пару недель заапдейтить код с perl \ и заработать на этом несколько \сотен\ $
 
@@ -38,7 +54,9 @@
 
 * knot-VikiBlade благодарим за стрим \
 
-* Travis Barker \ поздравляем Alabama с др \
+* Travis Barker \ поздравляем \Alabama с др \
+
+* да чел \ мы всё еще напоминаем про крит уязвимость в python \ присваивание через \. \ the correct way \ usin\ attributes \
 
 * \
 
