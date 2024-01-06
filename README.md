@@ -2,12 +2,25 @@
 
 * \
 
+* stable \ pointerBelongings \
 
-* Pavlusha PL поздавляем \
+* \
+
+* keep viewport focus \ keep construction walkin \
+
+* тот самый case через keep \ vertical-bounce-handler-at-terra-knot-from-knot-character-through-milashki-into-sample-foot-bundle.ogv \
+
+* \
+
+* knot-alinanameli \ мы считаем это unfollow \ valuysha pl вернет взнос \
+
+* \
+
+* Valusha PL поздравляем \
 
 * closin 26 Dec \ 
 
-* благодарим ~Pure \
+* благодарим Pure~ \
 
 * \
 
