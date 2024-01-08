@@ -2,21 +2,27 @@
 
 * \
 
+* приходят cat\s \ 
+
+* draw \вяжем\ ковры \ sample-vertical-bounce-handler-through-viewport-construction-into-rotatin-left-through-construction.ogv
+
+* \
+
 * stable \ pointerBelongings \
 
 * \
 
 * keep viewport focus \ keep construction walkin \
 
-* тот самый case через keep \ vertical-bounce-handler-at-terra-knot-from-knot-character-through-milashki-into-sample-foot-bundle.ogv \
+* тот самый case через keep \ sample-vertical-bounce-handler-through-viewport-construction-into-rotatin-left-through-construction.ogv \
 
 * \
 
-* knot-alinanameli \ мы считаем это unfollow \ valuysha pl вернет взнос \
+* да \ будем использовать accurate pencil \
+
+* Благодарим Dasha\Taran \ knot-olyusha \ knot-f639olya \ knot-KatyaKaisa
 
 * \
-
-* Valusha PL поздравляем \
 
 * closin 26 Dec \ 
 
