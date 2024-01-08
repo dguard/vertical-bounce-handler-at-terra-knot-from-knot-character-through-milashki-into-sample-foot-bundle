@@ -2,6 +2,14 @@
 
 * \
 
+* \ s\cli\p\asssan\dzu \
+
+* \ s\cli\p\assan\kh\
+
+* Stephen N \ \заслуженный\ win \
+
+* \
+
 * приходят cat\s \ 
 
 * draw \вяжем\ ковры \ sample-vertical-bounce-handler-through-viewport-construction-into-rotatin-left-through-construction.ogv
