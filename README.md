@@ -2,9 +2,15 @@
 
 * \
 
+* knot-shenty \ 
+
 * \
 
-* Да Rostik \ солнышко \ from recent year \ we had an experience \ growin\ multiple dark stick\ in the лес \ stick\и \ растут by themself \
+* knot-dc-one remind \ high level of scam on twitch \
+
+* knot-JuliaFareast \ abuse title of stream \ 
+
+* Да Rostik \ солнышко \ from recent year \ we had an experience \ growin\ multiple dark\ stick\ in the лес \ stick\и \ растут by themself \
 
 * AlinaRinRin \ we remind про выкапывание окоп двумя руками from bottom \ через short knife \
 
