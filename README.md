@@ -2,11 +2,43 @@
 
 * \
 
+* \
 
+* Да Rostik \ солнышко \ from recent year \ we had an experience \ growin\ multiple dark stick\ in the лес \ stick\и \ растут by themself \
 
+* AlinaRinRin \ we remind про выкапывание окоп двумя руками from bottom \ через short knife \
 
+* \
 
+* further update уже на следующей неделе \
 
+* saudi arabia \ благодарим милашхаб \
+
+* game \ perspective \ into \R\ally \     \ wolkswagen \ asahi \ japanese \ chinese \ gazprom \
+
+* Напишите \ пожалуйста\ на habr через prophet luka \ чтобы было понятно что это knot \skolkovo\ и \ knot capital one \
+
+* \
+
+* и оставляем stick and stick чтобы memory \do\ knot trunk up \
+
+* благодарим Mister President Putin \ Mister \t\ Guterres \ Julia R \ и people from wales \ rostik \
+
+* perspective доделали \ добавляем handlin\ и boundin\
+
+* пробуем find venture\ \fond\ \
+
+* \
+
+* и надо где-то работать \ не \находиться\ же 8 месяцев по лесам \
+
+* через месяц снова появятся workers \ 
+
+* в след месяце не так много дней \ 
+
+* Делаем closin \
+
+* \
 
 * just_ns \ maelstorm благодарим \ продвинулись в вычислениях \
 
