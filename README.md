@@ -3,6 +3,43 @@
 * \
 
 
+* у каждого viewport различие в способе ввода \ 
+
+* \
+
+* и уже \работающие\ комбинации \
+
+* \
+
+* viewport \ camera walkin \
+
+* \
+
+* viewport \ tesla walkin \ handlin различается \
+
+* \
+
+* viewport \ character walkin from forward \ vice city \ добавим после mm8 \
+
+* \
+
+* viewport \ character walkin \ radial \ gta 2 \ viewport реализован \
+
+* \
+
+* viewport walkin \ mm8 \ добавляем \ bottom statement \
+
+* \
+
+* примеры walkin \
+
+* \
+
+* \walkin\ viewport into forward \ mm8 \ требует использование двух \ bottom statement \ плоскостей \
+
+* И здесь мы можем видеть пример того, что \walkin\ radial является целостным \ 
+
+* \
 
 * knot-shenty \ 
 
