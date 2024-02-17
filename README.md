@@ -6,6 +6,9 @@
 
 
 
+
+
+
 * \ walkin into forward \ 
 
 * расположение \ viewport \
