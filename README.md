@@ -8,13 +8,13 @@
 
 
 
+* \
 
-
-
+* 
 
 * \
 
-* но хочется спать \
+* но хочется спать \ knot relative size 4 into 1 \ Decimal \
 
 * можно уже сейчас сделать чтобы rect стали knot connectd \
 
