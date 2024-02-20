@@ -41,6 +41,11 @@
 
 
 
+
+
+
+
+
 * к примеру \ sublime не ставит нужный closin bracket \ но в loop добавляет closin bracket \
 
 * \ @AskePit \ from habr \ примитивный способ ввода \
