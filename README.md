@@ -32,19 +32,19 @@
 
 
 
+* Да-да rostick \ держимся \ хочется уже составить pdf и написать про ключевые метрики стартапа \ ждём front \
 
+* \
 
+* а затем опять ich liebe \ ich liebe \  \ не будем использовать pointerBelongings \ челы do drink on weekend \ and on day before \ 
 
+* мы видим \откровенно\ слабые косплеи \ ClubNikka я тебя люблю \ EvaElfie
 
+* числа не успевают do rest \
 
+* Mister President \ Mister Ka \ 
 
-
-
-
-
-
-
-
+* \
 
 * к примеру \ sublime не ставит нужный closin bracket \ но в loop добавляет closin bracket \
 
