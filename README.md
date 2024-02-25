@@ -18,27 +18,37 @@
 
 
 
+* \
 
+* \       \  sample через указание radial \ bottom \плоскости\ мы уже использовали into sample-vertical-bounce-handlet-through-rotatin-into-flip-through-knot-foot-sample.mp4 \
 
+* \ sample может указывать расположение radial \   через sample \      from sample-vertical-bounce-handler-through-radial-between-stickd-and-stickd-closin.png
 
+* \
 
+* \При\ \разработке\ будем использовать дополнительную bottom \плоскость\ \поверх\ основной bottom map \  \с целью\ do rotatin \  \hand \
 
+* \ Получаются \такие\ radial \ sample passd into sample-vertical-bounce-handler-through-radial-between-stickd-and-stickd-closin.png \ какая разница как \ называются \
 
+* \При\ использовании rotatin \ расположение stick-another изменяется \
 
+* Что позволяет использовать radial between stick and stick-another \
 
+* \
 
+* И указываем \ sample через использование stick \ и через использование \поверх\ into sample-vertical-bounce-handler-into-viewport-radial-walkin.pdf
 
+* sample через использование \поверх\ указали \ into \  sample-vertical-bounce-handler-into-hand-radial-construction-through-bottom-map.ogv \
 
+* И добавлять stick \поверх\ bottom map \
 
+* Теперь можно do rotatin \ bottom map \ 
 
+* \
 
+* Что позволяет использовать \rotatin\ и добавлять stick поверх bottom map \
 
-
-
-
-
-
-
+* Ранее добавили     \ sample-vertical-bounce-handler-through-radial-bottom-distance-into-perspective-from-original.ogv \
 
 * \
 
