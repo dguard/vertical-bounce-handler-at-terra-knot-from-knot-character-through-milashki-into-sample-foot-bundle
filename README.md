@@ -43,18 +43,19 @@
 
 
 
+* thx for contributin \ 
 
+*  \ мне \бы \больше\ \пригодилась\ защита для head \
 
+* \
 
+* \здесь\ будем использовать то что делали ранее \ passd from sample-vertical-bounce-handler-through-protractor-from-startin.ogv \
 
+* и \это\ into further \ sample-vertical-bounce-handler-into-rotatin-from-protractor-from-startin.png \
 
+* \draw\ в ручном режиме \ сделал одну сторону \ можно посмотреть как это \будет\ \смотреться\ \ sample-vertical-bounce-handler-through-profile-into-statement-rotatin-through-passd-from-capturd.ogv \
 
-
-
-
-
-
-
+* \   \ did capturin profile \ it taken 29 minutes in manual mode \ passd from capturd workarea \ делали раньше \ sample-vertical-bounce-handler-through-profile-into-statement-rotatin-through-passd-from-capturd-through-highlight.png \
 
 * \
 
