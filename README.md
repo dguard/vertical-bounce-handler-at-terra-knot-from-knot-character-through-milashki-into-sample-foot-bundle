@@ -35,13 +35,13 @@
 
 
 
-
-
-
-
 *
 
 *
+
+* \
+
+* Mister Macron \ why \fra\n\ce\ did knot complete good adaptation for \connectd\ pixels \
 
 * thx for contributin \ 
 
