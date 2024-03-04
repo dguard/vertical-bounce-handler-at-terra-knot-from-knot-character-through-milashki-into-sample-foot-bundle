@@ -20,24 +20,28 @@
 
 
 
+* Mister Ka \ работаем\ 
 
 
+* бринн \ хорошее у тебя name \ местный чел делает abuse prototype через dc \ м \ ш \ к \
 
+* \
 
+* \knot-fareast\ подсказывает слова \ через dc \ м\  \ ш \   \ к   \ 
 
+* ev0 \gerasi\mo\va \ пару дней before \ into dark \упёрла\сь\ \
 
+* \отгадайте\ кто from military ? 
 
+* \
 
+* \dc\
 
+* \d\cm\ from draft \
 
+* \decimal\ from computd \
 
-
-
-
-
-*
-
-*    
+* \decima\ from military \
 
 * \
 
