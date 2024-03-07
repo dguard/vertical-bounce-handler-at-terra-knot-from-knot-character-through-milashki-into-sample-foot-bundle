@@ -2,14 +2,25 @@
 
 * \
 
+* \ through radial \ stick \ 
 
+* \ from passd \ sample \
 
+* \ through multiple passd \ 
 
+* и здесь уже можно будет делать несколько sample \ с отличающимся внешним \видом\  \
 
+* \
 
-* 
+* pencil to draw side \ дорисовываю \ и это будет \shader\ с 4мя side \
 
-* и в какое место ты поехал \ 
+* the idea \ put profile between \ into expandin\ distance \ and into low distance \ откуда развита the idea \ можно догадаться \
+
+* еще работаю \ highlight добавим \
+
+* \
+
+* уже сейчас можно делать разметку \ как выглядит \house\ from the inside \
 
 * closin \
 
