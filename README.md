@@ -22,13 +22,13 @@
 
 
 
-
+* \ closin \ 
 
 * выбери profile \ с которым комфортно работать \
 
 * чел \ повышаем нагрузку into profile \
 
-* keep \
+* keep \ там пишем draft \ еще раз draft \ чтобы не было \auto compute\ from startin \ и затем то что необходимо сделать \
 
 * \
 
