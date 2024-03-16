@@ -192,20 +192,21 @@
 
 *
 
-* \
-
-* excuse me \ iam a\dragon spawn\r
+* why knot innovate china ?
 
 * \
 
-* \ присоциал-демократ \
-* have a forkate \
+* the perl \ we have \
 
-* \ knot be zai \
+* we are knot lolya to say throughspeak what we think \ 
 
-* take a victory \
-* simple \ заслуженно \
+* \
 
+* free \ knot safe \ passd from construction keep \
+
+* union \ knot safe \ passd from construction keep \
+
+* construction keep \ safe \ 
 
 * \ split joiner \ sample union \ free \
 * \ keep \ construction \
