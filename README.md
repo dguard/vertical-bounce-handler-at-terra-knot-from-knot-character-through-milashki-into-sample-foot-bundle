@@ -151,11 +151,11 @@
 
 
 
+* \
 
+* Who knows\ don't hint\ others \
 
-
-
-*
+* Algo for night \ What\ algo to compute \rotatin\ axe-construction ?
 
 * further \большее\ количество исходных картинок \ bottom-polyknot \
 
