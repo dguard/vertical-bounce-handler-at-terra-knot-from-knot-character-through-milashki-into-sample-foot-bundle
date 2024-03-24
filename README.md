@@ -139,6 +139,8 @@
 
 
 
+* 
+
 * closin \
 
 * и вот начинаем получать picture \ from rotatin для доступного direction \
