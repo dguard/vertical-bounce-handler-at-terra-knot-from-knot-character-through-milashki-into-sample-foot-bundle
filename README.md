@@ -133,9 +133,9 @@
 
 
 
-*
+* \
 
-*
+* руководство по сборке \ручного\ dragon \      \ от \создателей\ sample-vertical-bounce-handler-into-axe-construction-passd-from-accurate-pointerBelongings.png \
 
 * \
 
