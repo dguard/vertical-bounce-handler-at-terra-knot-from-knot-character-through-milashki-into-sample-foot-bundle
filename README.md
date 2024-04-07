@@ -115,21 +115,21 @@
 
 * closin \
 
-*
+* поздравляем Miss Matvienko с др \
 
 * \
 
-* 
+* благодарим knot-ClubNikka \ knot-lizabkt \ knot-babkalapka \ knot-disnaface \ knot-di_rubens \ knot-leva2k \ knot-JuliaElves \ knot-iltw1 \ knot-shenty \ knot-AlinaRinRin \ там была прикольная причёска \ knot-DiVenda \ knot-SinicaWho \ knot-LupLupka \ knot-AlishaMalinova \ knot-atletikaa \ knot-anqwerchi \ knot-nenormova \ knot-kiaraoksi \ \аха\ я так и знал что вы меняетесь knot\ami\ \ knot-cybersport \
 
-* 
-
+* и мы пробуем собрать \dragon\   \from the inside \   startinFrom \ sample-vertical-bounce-handler-into-dragon-construction.png \
+ 
 * \
 
 * \
 
-* 
+* это позволило разметить пространство достаточно \ чтобы собрать более целостное picture \
 
-* 
+* ранее мы пробовали собрать \dragon\ через picture from profile rect \ sample-vertical-bounce-handler-into-axe-construction-through-rotatin-closin.ogv \
 
 * \
 
