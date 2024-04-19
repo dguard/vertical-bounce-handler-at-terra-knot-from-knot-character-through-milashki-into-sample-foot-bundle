@@ -13,75 +13,77 @@
 
 
 
+* \
 
+* Art Set \ spec \ собираем после начала получения инвестиций \ 
 
+* а затем into оплату работы команды добровольцев \ которые соберут Art Set \ Characters \ Constructions \ Location \
 
+* \
 
+* так что первая сумма идёт into оплату разработки \ 
 
+* но фишка заключается в \особом\ редакторе векторной графики \
 
+* целостно собираем into game \
 
+* Челы \ кто сечёт в kickstarter.com \ с желанием помочь \ пишите tg: @serdkevich \ GB into USD \ into RUB \ 
 
+* \ 
 
+* Challenge \ move forward from Fractal Stack Vector Graphic Editor \ that used to construct Art Set \ Characters \ Constructions \ Location \         \  into gameplay of the game \
 
+* Communication \ we expect that people uses modern browser with html5 and canvas \
 
+* \
 
+* Role-Based Game with elements of DIY and multiplayer ability \
 
+* Еще подал заявку into www.kickstarter.com \ 
 
+* \
 
+* а ну тут местные челы апнули кису \ тоже как и тот чел хорошо работает  \     \ sample-vertical-bounce-handler-into-catchd-mouse-another.jpg \
 
+* \
 
+* чел пробежался \ за счёт того что я тоже регулярно бегаю \ значительно легче передвигаться в тёплую погоду \
 
+* Рамзан Ахматович \ нам прислали чела \ спасибо \ 
 
+* \
 
+* sample \ исключающего внешнего визуального join мы делали ранее \ sample-vertical-bounce-handler-through-sample-foot-through-stackin-from-bottom-from-original.mp4 \
 
+* \
 
+* profile \ сбрасывает значение к исходным \
 
+* а через 3 и 4 слот делается stackin \
 
+* можно заметить два слота \оставляются\ неиспользованными \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* здесь мы сделали join через \взаимодополняющий\ pointerBelongings \ sample-vertical-bounce-handler-through-\profile-into-dragon-construction-through-stackable-choice.ogv \
 
 * \
 
 *
-
-*
-
-* closin \
-
-*
-
-* \
 
 * 
 
 * closin \
 
-*
+* [draw-angular-from-passd] \ нужен для того чтобы нарисовать rect from passd angular \ from passd direction \ но здесь повышается точность \ изначально мы рисовали с точностью от размера paper \ а здесь будет точность взята from passd radial \
 
-*
+* \
+
+* [compute-angular-from-passd] \ нужен для того чтобы сделать compute rect через passd\ incline \
+
+* closin \
+
+* [draw-radial-from-passd] \  и затем сделаем draw \
+
+* [compute-radial-from-passd] здесь мы пробуем сделать compute \radial\ \ from passd direction \ sample-vertical-bounce-handler-into-dragon-tail-through-compute-radial-from-passd.png
 
 * \
 
