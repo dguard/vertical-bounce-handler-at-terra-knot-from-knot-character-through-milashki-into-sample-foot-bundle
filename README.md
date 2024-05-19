@@ -85,27 +85,27 @@
 
 
 
+* \ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-*
+* \    \profile passd to us\ startin from \   \ profile \further\ side\ closin \    \ we will have rect with different rect inc \
 
 * \
 
-* 
+* and pass radial into rect \ and into perspective \
 
-*
+* remainin \ we need to pass rect \ into perspective \
+
+* \
+
+* \when we use /look/ with \same perspective\ enough long time we stop remember how to compute perspective \ manually \ without compute from passd \
+
+* in the sample \ we \use\ \startin from\ and closin \ pointer \ to construct rect passd into perspective \
+
+* \
+
+* in the \sample \      \ lines are passd through optic\l compute \ different direction of passd lines \ \   passd \perspective\ has different sides\ direction\ \
+
+* \ rect into perspective passd \ through compute relative profile to entire profile \
 
 * \
 
