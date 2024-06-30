@@ -48,8 +48,36 @@
 
 
 
+* \
+
+* Context \ had havin\ hand motoric \stick write\ only \ \ into bottom \
 
 
+* The stick \read only \ passd from focus \
+
+* The stick \write \only \  the interpreter \ i am \
+
+
+* To emulate stick \read \only \ use pass write only \
+
+* The stick immutable read \only \
+
+* Parallax effect \     \ both focus at the tree, at the river, the sun \
+
+* The sun at the closin side of the tree \
+
+* The source of the light passd into closin side of the tree \
+
+* Use javelin \ 
+
+* The source of the light located at the middle of the tree \
+
+* The source of the light located at \front \
+
+* Effect Parallax \
+
+
+* Mister Stoltenberg
 
 * \
 
@@ -64,8 +92,6 @@
 * 
 
 * \
-
-* \ knot-rostislav \ knot     \     \ mister president \ пишу я такой код 12го числа \ уже думаю скоро допишу и опубликую \ и тут мне присылают чела который говорит с \белорусским акцентом\            \ всё \    чел \ -4 дня\ можно писать заново \
 
 * \
 
