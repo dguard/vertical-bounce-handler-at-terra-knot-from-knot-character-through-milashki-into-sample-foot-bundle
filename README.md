@@ -219,10 +219,13 @@
 
 
 
+## Donate ❤️
 
+All the work is provided free of cost and completely open source (MIT), but it needs your support and love to keep the activity sustainable.
 
+Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
 
-
+<a href='https://www.paypal.com/paypalme/pencilfoot'><img src='https://camo.githubusercontent.com/f47ac985bc391ceec4815531589fd5c28ff2cd186f853652eddf9ed7169dc070/68747470733a2f2f7777772e746563687a696d2e636f2e7a772f77702d636f6e74656e742f75706c6f6164732f323031342f30362f70617970616c2d6c6f676f2e706e67' height='210' alt='Paypal Logo' aria-label='Paypal' /></a>
 
 
 * \
